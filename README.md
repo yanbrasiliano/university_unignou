@@ -1,2 +1,1 @@
-# university_unignou
-This project simulates a university page. The fictional name is Unignou.
+Under construction, wait... :smile:
